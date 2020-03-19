@@ -3,6 +3,6 @@ def say_hello(name)
   puts "Hello Jason Calvo"
 end
 
-def say_hello(name="Ruby Progammer!")
+def say_hello(name="Ruby Programmer!")
   puts ("Hello ${name}!")
 end
